@@ -3,6 +3,7 @@
 ![Nalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueNalin&show_icons=true&theme=transparent)
 
 ### ⚙️ Languages and Tools: 
+
 <div style="display: inline_block"><br/>
 <img align="center" height="50" width="60" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="center" height="50" width="60" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
